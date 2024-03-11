@@ -11140,6 +11140,28 @@ body {
     padding: 5rem;
   }
 }
+.projects-section .position-relative {
+  position: relative;
+}
+.projects-section .app-store-button {
+  position: absolute;
+  margin: 20px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.projects-section .bottom-0 {
+  bottom: 0;
+}
+.projects-section .left-0 {
+  left: 0;
+}
+.projects-section .top-0 {
+  top: 0;
+}
+.projects-section .right-0 {
+  right: 0;
+}
 
 .signup-section {
   padding: 10rem 0;
